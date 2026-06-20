@@ -1,2 +1,2 @@
-print("Hello, World!")
-print("My name is Virtue.")
+("Hello, World!")
+("My name is Virtue.")
